@@ -1,6 +1,6 @@
 # lab5web
                               RIFAN ARFANI
-                               312010413 
+                               312010459
                                TI.20.B2
                                
 # Pratikum 5 : Javascript
