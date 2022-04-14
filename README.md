@@ -3,13 +3,13 @@
                                312010413 
                                TI.20.B2
                                
-Pratikum 5 : Javascript
-Pengenalan Javascript
+# Pratikum 5 : Javascript
+ # Pengenalan Javascript
 Javascript adalah bahasa pemrograman yang awalnya dirancang untuk berjalan di atas browser. Namun, seiring perkembangan zaman, javascript tidak hanya berjalan di atas browser saja. Javascript juga dapat digunakan pada sisi Server, Game, IoT, Desktop, dsb.
 
-Langkah-langkah Praktikum
+ # Langkah-langkah Praktikum
 
-Pemakaian Alert sebagai property window 
+ Pemakaian Alert sebagai property window 
 ![1](https://user-images.githubusercontent.com/72736888/163384913-57a83fab-68f2-442d-aa2d-44825fe0ddd8.jpg)
 
 Pemakaian method dalam objek 
